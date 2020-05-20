@@ -14,6 +14,7 @@ namespace MVCproject
     {
         public static void Main(string[] args)
         {
+            string test= "Hi how are u";
             CreateWebHostBuilder(args).Build().Run();
         }
 
